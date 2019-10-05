@@ -6,7 +6,7 @@ Para o back-end foi utilizado a aplicação Real Time Database do Firebase.
 <img src="/images/Opening.png">
 
 ## Registro
-<img src="/images/Register.jpeg">
+<img src="/images/Register.jpeg" height="200px">
 
 ## Login
 <img src="/images/Login.jpeg">
