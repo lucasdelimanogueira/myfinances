@@ -1,6 +1,6 @@
 # myfinances
 Um aplicativo de finanças pessoas escrito em Java (Android SDK). 
-Para o back-end foi utilizado a aplicação Real Time Database do Firebase.
+Para o back-end foi utilizado o Firebase.
 
 ## Abertura
 <img src="/images/Opening.png">
