@@ -6,14 +6,14 @@ Para o back-end foi utilizado a aplicação Real Time Database do Firebase.
 <img src="/images/Opening.png">
 
 ## Registro
-<img src="/images/Register.jpeg" height="200px">
+<img src="/images/Register.jpeg" height="400px">
 
 ## Login
-<img src="/images/Login.jpeg">
+<img src="/images/Login.jpeg" height="400px">
 
 ## Cadastro de movimentações
-<img src="/images/FAB.jpeg">
-<img src="/images/Movement.jpeg">
+<img src="/images/FAB.jpeg" height="400px">
+<img src="/images/Movement.jpeg" height="400px">
 
 ## Principal
-<img src="/images/Main1.jpeg">
+<img src="/images/Main1.jpeg" height="400px">
